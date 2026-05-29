@@ -1,0 +1,13 @@
+{
+  "name": "99-nights-in-forest",
+  "version": "2.0.0",
+  "description": "99 Nights in the Forest - 3D Multiplayer Survival Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
